@@ -1,0 +1,40 @@
+[
+    {
+        "model": "registro_curso_app.estudiante",
+        "pk": 1,
+        "fields": {
+            "rut": "111111111",
+            "nombre": "Felipe",
+            "apellido": "Galdames",
+            "fecha_nac": "2000-05-15",
+            "activo": true,
+            "creado_por": "Admin",
+            "cursos": [1, 3]
+        }
+    },
+    {
+        "model": "registro_curso_app.estudiante",
+        "pk": 2,
+        "fields": {
+            "rut": "222222222",
+            "nombre": "Ana",
+            "apellido": "Riquelme",
+            "fecha_nac": "2001-07-20",
+            "activo": true,
+            "creado_por": "Admin",
+            "cursos": [2]
+        }
+    },
+    {
+        "model": "registro_curso_app.estudiante",
+        "pk": 3,
+        "fields": {
+            "rut": "777777777",
+            "nombre": "Rosa",
+            "apellido": "Monardes",
+            "fecha_nac": "1999-08-18",
+            "activo": true,
+            "creado_por": "Admin"
+        }
+    }
+]

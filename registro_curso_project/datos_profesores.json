@@ -1,0 +1,35 @@
+[
+    {
+        "model": "registro_curso_app.profesor",
+        "pk": 1,
+        "fields": {
+            "rut": "123456789",
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "activo": true,
+            "creado_por": "Admin"
+        }
+    },
+    {
+        "model": "registro_curso_app.profesor",
+        "pk": 2,
+        "fields": {
+            "rut": "987654321",
+            "nombre": "María",
+            "apellido": "Gómez",
+            "activo": true,
+            "creado_por": "Admin"
+        }
+    },
+    {
+        "model": "registro_curso_app.profesor",
+        "pk": 3,
+        "fields": {
+            "rut": "567890123",
+            "nombre": "Carlos",
+            "apellido": "López",
+            "activo": true,
+            "creado_por": "Admin"
+        }
+    }
+]

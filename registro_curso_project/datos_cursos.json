@@ -1,0 +1,32 @@
+[
+    {
+        "model": "registro_curso_app.curso",
+        "pk": 1,
+        "fields": {
+            "codigo": "CUR101",
+            "nombre": "Introducción a la Programación",
+            "version": 1,
+            "profesores": [1, 2]
+        }
+    },
+    {
+        "model": "registro_curso_app.curso",
+        "pk": 2,
+        "fields": {
+            "codigo": "CUR202",
+            "nombre": "Bases de Datos",
+            "version": 2,
+            "profesores": [3]
+        }
+    },
+    {
+        "model": "registro_curso_app.curso",
+        "pk": 3,
+        "fields": {
+            "codigo": "CUR303",
+            "nombre": "Desarrollo Web",
+            "version": 1,
+            "profesores": [1, 3]
+        }
+    }
+]

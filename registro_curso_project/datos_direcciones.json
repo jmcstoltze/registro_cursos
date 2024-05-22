@@ -1,0 +1,28 @@
+[
+    {
+        "model": "registro_curso_app.direccion",
+        "pk": 1,
+        "fields": {
+            "calle": "Avenida Libertador Bernardo O'Higgins",
+            "numero": "1234",
+            "dpto": "101",
+            "comuna": "Santiago",
+            "ciudad": "Santiago",
+            "region": "Metropolitana",
+            "estudiante": 1
+        }
+    },
+    {
+        "model": "registro_curso_app.direccion",
+        "pk": 2,
+        "fields": {
+            "calle": "Calle Antonio Varas",
+            "numero": "567",
+            "dpto": "",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana",
+            "estudiante": 2
+        }
+    }
+]
